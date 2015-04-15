@@ -1,0 +1,12 @@
+29d1504157c5b0fb9d54a65433dbbc52 *DESCRIPTION
+042fd5a9c745ab8612c3850babf00345 *LICENSE
+5addefe26408155fb6b9acbbe9184897 *NAMESPACE
+12695a464bcb546514333e32b9670c10 *R/cernn.r
+e265494748864a23cdfd692525cf9fa6 *inst/CITATION
+80810439e1a4263076ad135c3338d50d *man/cernn.Rd
+6e08168767cdee4fca33b32da1b288a8 *man/get_alpha.Rd
+45b2029e3a78c4c0d1d54f24dfa57861 *man/get_lambda_max.Rd
+f4eedde821c46ce92f437ffdc67f36f3 *man/loss_entropy.Rd
+215f34f82b092f25e0aec4444b50605b *man/loss_quadratic.Rd
+6cc3fb91661f375ed0f1afdf341804b3 *man/select_lambda.Rd
+18acd853dc370276a748c1e28f317a2a *man/shrink_eigen.Rd

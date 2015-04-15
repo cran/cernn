@@ -1,0 +1,14 @@
+citHeader("To cite cernn in publications, please use:")
+
+citEntry(entry = "article",
+         title = "Stable estimation of a covariance matrix guided by nuclear norm penalties",
+         author = "Eric C. Chi and Kenneth Lange",
+         year = "2014",
+         volume = "80",
+         pages = "117--128",
+         doi = "http://dx.doi.org/10.1016/j.csda.2014.06.018",
+         issn = "0167-9473",
+         journal = "Computational Statistics and Data Analysis",
+         url = "http://www.sciencedirect.com/science/article/pii/S0167947314001893",
+         textVersion = "Eric C. Chi and Kenneth Lange, Stable estimation of a covariance matrix guided by nuclear norm penalties, Computational Statistics and Data Analysis, 80:117-128, 2014."
+)
